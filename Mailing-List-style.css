@@ -1,0 +1,16 @@
+.button{
+    font: 17px 'Open Sans', sans-serif;
+    width: 6em;
+    font-weight: 400;
+    color: #fff;
+    padding: 0.4em;
+    padding-inline: 6.05em;
+    background-color: #178A1F;
+    border: 3px solid #178A1F;
+    text-decoration: none;
+}
+
+.butto-block{
+    margin-top: 20px;
+    width: 280px;
+}
